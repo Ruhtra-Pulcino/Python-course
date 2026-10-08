@@ -1,2 +1,1 @@
-# Python-course
-In this repository, I will document everything I learn in Python.
+# Python Course  Repository documenting my progress while studying Python.  ## Topics  - Python fundamentals - Variables and data types - Conditional statements - Loops - Functions - Data structures - Object-oriented programming - File handling - Exceptions - Libraries - Data analysis - Projects  ## Goal  Build a strong Python foundation for future
